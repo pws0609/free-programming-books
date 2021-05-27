@@ -75,6 +75,7 @@
 * [C++ 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLJRimEWvctNAfE5JrkwswQv6Yy4abqDl2)
 * [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
+* [C/C++/C# 차이점](https://www.youtube.com/watch?v=zGrTT4k1-yc)
 
 
 ### C Sharp
@@ -136,6 +137,7 @@
 * [모던 웹을 위한 JavaScript + jQuery](https://www.youtube.com/playlist?list=PLBXuLgInP-5kLy13XLuK8iBWVFDBJygYr)
 * [JavaScript 입문 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) (생활코딩)
 * [JavaScript for Web Browser](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX) (생활코딩)
+* [JavaScript Basic Lecture](https://www.youtube.com/watch?v=KF6t61yuPCY) (코딩앙마)
 
 
 #### Angular.js
